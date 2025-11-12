@@ -1,3 +1,6 @@
+# Ignore the 'output' directory
+output/
+
 # Ignore the 'data' directory
 data/
 
